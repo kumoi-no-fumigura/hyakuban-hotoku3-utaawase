@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/hyakuban-hotoku3-utaawase",
  "yomi": "ひゃくばんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（百番・十二題）",
+  "era": "宝徳3年（1451）8月11日",
+  "author": "判者 沙弥祐雅（飛鳥井雅世）",
+  "desc": "雨中荻・秋夕・松月から恋・旅・名所鶴までの題による百番の歌合。式部卿宮・関白・右大臣らが詠み、飛鳥井雅世が判を加える。判詞には、このたびの撰集に触れる箇所もある。"
+ },
  "editions": [
   {
    "pid": "1879502",
